@@ -6,7 +6,7 @@ Accurate average price & fee analyzer for Binance trade history — Fix average 
 
 ## Why this tool?
 
-Binance's **app average price becomes misleading when:**
+Binance's app **average price becomes misleading when:**
 - You move crypto to cold wallets.
 - You later buy more crypto.
 - Binance shows only the average of current holdings, ignoring past transfers.
@@ -15,17 +15,11 @@ Additionally:
 - Binance only displays **6 months of trade history** in the UI.
 - You can export the full history, but Binance still **doesn't correct the average price**.
 
----
+## 💡 What this tool does.
 
-## This tool solves that.
-
-**Binance Accurate Trade Analyzer (BAT Analyzer)**:
-- 🧾 Reads your **exported Binance full trade history CSV**.
-- 📊 Calculates **true executed quantity**, **total amount spent**, and **actual fees paid**, **ignoring transfers to cold wallets**.
-- 💡 Gives you a **clean, accurate average price**, protecting you from Binance's misleading calculations.
-
-
----
+- Reads your **exported Binance full trade history CSV**.
+- Calculates **true executed quantity**, **total amount spent**, and **actual fees paid**, **ignoring transfers to cold wallets**.
+- Gives you a **clean, accurate average price**, protecting you from Binance's misleading calculations.
 
 ## 📈 Example Use Case
 
